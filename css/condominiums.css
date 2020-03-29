@@ -1,0 +1,17 @@
+body {
+    padding-top: 0px;
+    background-color: #209151;
+}
+
+.stage {
+    margin: 0px auto;
+    width: 600px;
+    height: 600px;
+    overflow: hidden;
+}
+
+#slider{
+  width:300px;
+  position:relative;
+  margin: 30px auto;
+}
